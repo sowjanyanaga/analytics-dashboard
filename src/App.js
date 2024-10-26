@@ -13,6 +13,7 @@ function App() {
       header: true,
       complete: (results) => {
         setData(results.data);
+        console.log(results.data, "Data")
       },
     });
   }, []);
