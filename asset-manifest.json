@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sowjanyanaga/analytics-dashboard/static/css/main.30c2ae6f.css",
+    "main.js": "/sowjanyanaga/analytics-dashboard/static/js/main.d60595a7.js",
+    "static/js/453.9c1e1b96.chunk.js": "/sowjanyanaga/analytics-dashboard/static/js/453.9c1e1b96.chunk.js",
+    "index.html": "/sowjanyanaga/analytics-dashboard/index.html",
+    "main.30c2ae6f.css.map": "/sowjanyanaga/analytics-dashboard/static/css/main.30c2ae6f.css.map",
+    "main.d60595a7.js.map": "/sowjanyanaga/analytics-dashboard/static/js/main.d60595a7.js.map",
+    "453.9c1e1b96.chunk.js.map": "/sowjanyanaga/analytics-dashboard/static/js/453.9c1e1b96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c2ae6f.css",
+    "static/js/main.d60595a7.js"
+  ]
+}
